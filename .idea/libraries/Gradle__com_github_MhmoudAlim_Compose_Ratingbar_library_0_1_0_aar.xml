@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MhmoudAlim:Compose-Ratingbar-library:0.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/58939ae2419f2d34c53bd1962080eb15/transformed/Compose-Ratingbar-library-0.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15f50ffef50f33c1401549d4bb0e8b4b/transformed/Compose-Ratingbar-library-0.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7a6606802118c7eeb288d340e6de27fe/transformed/Compose-Ratingbar-library-0.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a6606802118c7eeb288d340e6de27fe/transformed/Compose-Ratingbar-library-0.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a6606802118c7eeb288d340e6de27fe/transformed/Compose-Ratingbar-library-0.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MhmoudAlim/Compose-Ratingbar-library/0.1.0/166b168b54518e3d6e12b9e67c28e9130af13b1e/Compose-Ratingbar-library-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

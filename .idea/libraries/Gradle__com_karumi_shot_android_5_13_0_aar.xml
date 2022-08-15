@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.karumi:shot-android:5.13.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53b04901c1fa9e29a5f961d1375cf6ad/transformed/shot-android-5.13.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8ea63e36e1d61eea544a1c6a2f5eb75/transformed/shot-android-5.13.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/05c0186e0e8fb6a435d41eac121b6b0b/transformed/shot-android-5.13.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05c0186e0e8fb6a435d41eac121b6b0b/transformed/shot-android-5.13.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05c0186e0e8fb6a435d41eac121b6b0b/transformed/shot-android-5.13.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.karumi/shot-android/5.13.0/f018176ead25c77355032daee57d432e03f99c8c/shot-android-5.13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.karumi/shot-android/5.13.0/56ba9caf48301b41f2af32441e9ec485d57fe8e6/shot-android-5.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
